@@ -2,6 +2,7 @@
     
 # IETF Network Management Operations (nmop) Working Group
 
+[Charter](https://datatracker.ietf.org/wg/nmop/about/) | [Mailing List](https://mailarchive.ietf.org/arch/browse/nmop/) | [Future/Past Meetings](https://datatracker.ietf.org/wg/nmop/meetings/) | [Active Documents](https://datatracker.ietf.org/wg/nmop/documents/)
 </div>
 
 <div align="center">
