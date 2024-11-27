@@ -15,6 +15,8 @@
 - [A YANG Data Model for Network Incident Management](https://github.com/ietf-wg-nmop/draft-ietf-nmop-network-incident-yang)
 - [An Architecture for a Network Anomaly Detection Framework](https://github.com/ietf-wg-nmop/draft-ietf-nmop-network-anomaly-architecture)
 - [Digital Map: Concept, Requirements, and Use Cases](https://github.com/ietf-wg-nmop/draft-ietf-nmop-digital-map-concept)
+- [Network Anomaly Lifecycle](https://github.com/ietf-wg-nmop/draft-ietf-nmop-network-anomaly-lifecycle)
+- [Semantic Metadata Annotation for Network Anomaly Detection](https://github.com/ietf-wg-nmop/draft-ietf-nmop-network-anomaly-semantics)
     
 </td><td valign="top">
    
