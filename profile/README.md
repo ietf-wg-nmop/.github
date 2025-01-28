@@ -23,7 +23,7 @@
 **Logistic**
 
 - [Meetings](https://github.com/ietf-wg-nmop/IETF-Meetings)
-- [IPR Calls](https://github.com/ietf-wg-nmop/Logistic/tree/main/ipr-poll-cfa)
+- IPR Calls for [Calls for Adoption](https://github.com/ietf-wg-nmop/Logistic/tree/main/ipr-poll-cfa) and [WGLCs](https://github.com/ietf-wg-nmop/Logistic/tree/main/ipr-poll-wglc)
 - Liaison Statements [Out](https://github.com/ietf-wg-nmop/Liaison-Statements-Out) and [IN](https://github.com/ietf-wg-nmop/Liaison-Statements-In)
 - [Chairs Sync](https://github.com/ietf-wg-nmop/Logistic/blob/main/Chairs-Sync-Meeting-Points.md)
     
