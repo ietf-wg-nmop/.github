@@ -26,6 +26,7 @@
 - IPR Calls for [Calls for Adoption](https://github.com/ietf-wg-nmop/Logistic/tree/main/ipr-poll-cfa) and [WGLCs](https://github.com/ietf-wg-nmop/Logistic/tree/main/ipr-poll-wglc)
 - Liaison Statements [Out](https://github.com/ietf-wg-nmop/Liaison-Statements-Out) and [IN](https://github.com/ietf-wg-nmop/Liaison-Statements-In)
 - [Chairs Sync](https://github.com/ietf-wg-nmop/Logistic/blob/main/Chairs-Sync-Meeting-Points.md)
+- [Initialize a repo for an I-D with YANG](https://github.com/IETF-OPS-AD/I-D-with-yang-template/generate)
     
 **Running Code & Hackathons**
     
